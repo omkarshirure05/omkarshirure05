@@ -46,13 +46,13 @@
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkarshirure05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarshirure05&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarshirure05&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p> -->
 
@@ -74,8 +74,8 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=omkarshirure05&icon=0&color=0" alt="Profile Views"/>
-</p>
+</p> -->
 
 <p align="center">⭐ From <a href="https://github.com/omkarshirure05">omkarshirure05</a></p>
